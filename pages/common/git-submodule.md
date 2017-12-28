@@ -8,7 +8,7 @@
 
 - Add a git repository as a submodule:
 
-`git submodule add {{repository_url}}`
+`git submodule add {{repository_url}} {{optional_path}}`
 
 - Update every submodule to its latest commit:
 
